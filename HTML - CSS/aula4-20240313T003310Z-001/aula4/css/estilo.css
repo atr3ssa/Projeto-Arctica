@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+}
+#banner{
+    height: 200px;
+    width: 1000px;
+    position: relative;
+    background-color: aqua;
+    margin: auto;
+
+}
+#corpo{
+    height: 1000px;
+    width: 1000px;
+    position: relative;
+    background-color: gray;
+    margin: auto;
+}
+#menu{
+    height: 100px;
+    width: 1000px;
+    position: absolute;
+    background-color: black ;
+    margin: auto
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30pt;
+    color:aliceblue;
+    text-align: center;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    font-size: 20pt;
+    color: black;
+    margin: auto;
+
+}
+
+.f1{
+    height: 200px;
+    width: 1000px;
+    position: relative;
+    margin: auto;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    font-size: 15pt;
+    color: black;
+    margin: auto;
+
+}
+#texto1{
+    height: 200px;
+    width: 1000px;
+    position: absolute;
+    margin-top: 120px;
+    
+
+}
