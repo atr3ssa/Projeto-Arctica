@@ -1,2 +1,2 @@
 # Projeto Arctica
- Atividades realizadas durante o período do curso
+ Atividades realizadas durante o período do curso :)
