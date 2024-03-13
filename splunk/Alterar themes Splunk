@@ -1,0 +1,37 @@
+Entrar com su root (senha:Arctica%2022)	
+
+PASSO 1:cd /opt/splunk/etc/apps
+PASSO 2:ls ( p/ ver os apps )
+PASSO 3:cd search
+PASSO 4:ls
+PASSO 5:cd default
+PASSO 6:more app.conf
+
+PASSO 7:
+
+(copia(botão direito, copiar) o supported_themes = light,dark) 
+cola ou digita o supported_themes = light,dark e dá um ctrl C
+
+PASSO 8: cd ..
+PASSO 9: cd ..
+PASSO 10: ls (p/ ver)
+PASSO 11: cd projeto_arctica/local (nome do app/local)
+PASSO 12: ls
+PASSO 13: vi app.conf
+
+PASSO 14:
+
+(com a seta do teclado vc vai digitar abaixo do nome do app, caso apareça. Do contrário, abaixo do "UI")
+(cole supported_themes = light,dark e clique em ESC.)
+
+(PASSO 15:) :wq
+PASSO 16: more app.conf
+
+(Se aparecer o supported_themes = light,dark, deu bom)
+
+PASSO 17:
+
+(após isso, volte p/ o Splunk e em "Settings" clique em "Server Controls" depois clique em "Reiniciar" e aguarde. após isso, entre novamente e veja se alterou)
+
+
+
