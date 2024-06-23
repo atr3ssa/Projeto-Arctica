@@ -1,2 +1,2 @@
 # Projeto Arctica
- Atividades realizadas durante o período do curso :)
+ Curso voltado para tecnologia aplicada ao trabalho. Com o seguintes conteúdos: algoritmos, HTML, CSS, JAVASCRIPT, PYTHON, SQL, LINUX, SPLUNK
